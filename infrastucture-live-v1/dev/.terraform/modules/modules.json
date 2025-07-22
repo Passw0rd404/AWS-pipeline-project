@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"code-pipeline","Source":"../infrastructure-modules/code-pipeline","Dir":"../infrastructure-modules/code-pipeline"},{"Key":"ec2","Source":"../infrastructure-modules/ec2","Dir":"../infrastructure-modules/ec2"},{"Key":"vpc","Source":"../infrastructure-modules/vpc","Dir":"../infrastructure-modules/vpc"}]}
